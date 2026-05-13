@@ -1,0 +1,16 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "FeedbackSystem",
+	"Description": "Give easy feedback inside project",
+	"Category": "Other",
+	"CreatedBy": "Michiel Hijweege",
+	"CreatedByURL": "https://michielhijweege.com",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"EngineVersion": "5.6.0",
+	"CanContainContent": true,
+	"Installed": true
+}
